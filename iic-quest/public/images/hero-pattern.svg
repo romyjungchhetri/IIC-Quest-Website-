@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.5">
+    <circle cx="720" cy="512" r="400" stroke="currentColor" stroke-width="2" stroke-dasharray="12 12"/>
+    <circle cx="720" cy="512" r="300" stroke="currentColor" stroke-width="2" stroke-dasharray="12 12"/>
+    <circle cx="720" cy="512" r="200" stroke="currentColor" stroke-width="2" stroke-dasharray="12 12"/>
+    <path d="M320 512H1120" stroke="currentColor" stroke-width="2" stroke-dasharray="12 12"/>
+    <path d="M720 112V912" stroke="currentColor" stroke-width="2" stroke-dasharray="12 12"/>
+    <path d="M470.863 261.863L969.137 762.137" stroke="currentColor" stroke-width="2" stroke-dasharray="12 12"/>
+    <path d="M969.137 261.863L470.863 762.137" stroke="currentColor" stroke-width="2" stroke-dasharray="12 12"/>
+  </g>
+</svg>
